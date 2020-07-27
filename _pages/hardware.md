@@ -11,14 +11,14 @@ This is all about Hardware that I made & want to make
 
 # Projects   
 
-g-2/EDM experiment at J-PARC : [g-2/EDM group website](http://g-2.kek.jp/portal/index.html, "group website")<br>
+g-2/EDM experiment at J-PARC : [g-2/EDM group website](http://g-2.kek.jp, "group website")<br>
 
 I am a member of Detector group in g-2/EDM experiment at J-PARC (E34) projects.  
 My main job is developing Low power-distribution system for positron detector by DC to DC converter.   
 
 # Papers & Posters   
 
-Technical Desgine Report PrePrinted : [2019TDR PrePrinted](https://arxiv.org/abs/1901.03047 , "2019TDR PrePrinted")
+Technical Desgine Report PrePrinted : [2019TDR PrePrinted](https://arxiv.org/pdf/1901.03047.pdf , "2019TDR PrePrinted")
 Technical Desgine Report Published : [2019TDR Published](https://academic.oup.com/ptep/article/2019/5/053C02/5506729 , "2019TDR Published")
 
 # Presentation & Talk
