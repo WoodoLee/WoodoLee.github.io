@@ -10,7 +10,7 @@ toc: true
 This is all about me
 
 # Interests
-
+I am a leaner with computer software and physical hardware 
 # Research Experiences
 
 my google scholar : [Google Scholar](https://scholar.google.com/citations?user=0vN_HG0AAAAJ&hl=ko,"Google Scholar link")
