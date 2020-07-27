@@ -8,7 +8,8 @@ toc: true
 This is all about me
 
 ## Research Experiences
-https://scholar.google.com/citations?user=0vN_HG0AAAAJ&hl=ko
+
+* my google scholar : <https://scholar.google.com/citations?user=0vN_HG0AAAAJ&hl=ko>
 
 ## Papers
 
