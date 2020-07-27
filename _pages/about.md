@@ -3,7 +3,8 @@ permalink:/about/
 title: "About"
 toc: true
 ---
-![IMG_1443](https://user-images.githubusercontent.com/35910868/88503062-87d01480-d00b-11ea-8478-1327f8a95be3.jpg)
+![me](/_img/IMG_1146.jpg){: width="100" height="100"}
+---
 This is all about me
 ## Experiences
 
