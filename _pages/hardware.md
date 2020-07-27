@@ -9,9 +9,9 @@ This is all about Hardware that I made & want to make
 
 # Experiences
 
-# Papers
+# Projects
 
-# Presentation & Posters
+# Papers & Presentation & Posters
 
 
 
