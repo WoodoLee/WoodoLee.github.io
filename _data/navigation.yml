@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "About" # 네비게이션 바에 표시 되는 이름
-    url: "_pages/about/" # 클릭시 이동할 URL
+    url: "/about/" # 클릭시 이동할 URL
   - title: "Software" # 네비게이션 바에 표시 되는 이름
     url: "/software/" # 클릭시 이동할 URL
   - title: "Hardware"
-    url: /hardware/
+    url: "/hardware/"
   - title: "Physics" # 네비게이션 바에 표시 되는 이름
     url: "/physics/" # 클릭시 이동할 URL
   - title: "Teaching"
-    url: /teaching/
+    url: "/teaching/"
  
   # - title: "Sample Collections"
   #   url: /collection-archive/

@@ -1,9 +1,9 @@
 ---
-permalink:/about/
-title: "About"
+permalink:/teaching/
+title: "Teaching"
 toc: true
 ---
-This is all about me
+This is all about my teaching experiences
 ## Experiences
 
 ## Papers
