@@ -14,15 +14,16 @@ I am doing analysis the particle physics data and developing the tools for that.
 I want to develop the useful tools for people based on my skills.
 
 
-<em># Research Experiences
+# Research Experiences
 my google scholar : [Google Scholar](https://scholar.google.com/citations?user=0vN_HG0AAAAJ&hl=ko,"Google Scholar link")
 
 # Projects
 ## Software
 ### Monte Carlo simulation
 <span style="color:red">test</span>
-I am developing simulation with monte carlo algorithm. I generated Big data(10^11) to anlysis the systematic error in my experiement.
+I am developing simulation with monte carlo algorithm. I generated Big data($$10^11$$) to anlysis the systematic error in my experiement.
 I am using Geant4 simualtion tools which is c++ package for particle physicist.
+
 ### Track Fitter
 This is fitting program with kalman filter algorithm. I fitted the distorted helix track.
 I am using GenFit package which is useful tools for c++ package
