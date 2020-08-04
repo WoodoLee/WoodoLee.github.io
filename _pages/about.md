@@ -47,8 +47,8 @@ This is track finding packager with Machine Learing algorithm in a long term pla
 This is power electic circuit to supply the constant DC power based on Buck converter. It is done. 
 
 | Design | Simulation | Fabrication | Test | Paper | 
-| ------ | ---------- | ----------- | ---- | ----- | 
-| Done | Done | Done | Done | Ongoing |
+| :------: | :----------: | :-----------: | :----: | :-----: | 
+| <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:Blue">Ongoing</span>  |
 
 # Papers & Presentation & Posters
 
