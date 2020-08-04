@@ -34,9 +34,9 @@ Paper work is ongoing.
 ## Software
 ### Monte Carlo simulation
 
-| Header One | Header Two | Header Three | Header Four | 
-| ---------- | :--------- | :----------: | ----------: | 
-| Default | Left | Center | Right |
+| Design | Simulation | Fabrication | Test | Paper | 
+| ------ | ---------- | ----------- | ---- | ----- | 
+| Done | Done | Done | Done | Ongoing |
 
 I am developing simulation with Monte carlo algorithm. I generated Big data to study the systematic error in my experiement.<br> 
 I am using Geant4 simualtion tools which is c++ package for particle physicist.
