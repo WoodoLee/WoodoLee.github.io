@@ -24,7 +24,7 @@ I did beam test in Triumf@UBC, Canada.
 Our group got real muon data for testing material(aerogel) target to generate muonium.
 [Muonium emission paper](https://academic.oup.com/ptep/article/2014/9/091C01/1530603, "Muoniumlink")
 
-<em><span style="color:Blue">Magnet Test</span><em>
+<em><span style="color:green">Magnet Test</span><em>
 
 I did DC to DC converter test in KEK, J-PARC, Japan.   
 I comfirmed the stability operation of my DC to DC converter in High B field test. 
@@ -33,6 +33,8 @@ Paper work is ongoing.
 # Projects
 ## Software
 ### Monte Carlo simulation
+|cell1|cell2|cell3|cell4|
+|---|---|---|---|
 I am developing simulation with Monte carlo algorithm. I generated Big data to study the systematic error in my experiement.
 I am using Geant4 simualtion tools which is c++ package for particle physicist.
 ### Track Fitter
