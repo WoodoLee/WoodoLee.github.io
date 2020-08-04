@@ -11,9 +11,9 @@ I am an Experimentalist in particle physicist. I am developing the hardwares, so
 I am a memeber of E34(g-2/EDM experiment at J-PARC) - both Software group and Detector group.
 
 # Interests
-I am doing analysis the particle physics data and developing the tools for that.<br> 
-I want to develop the useful tools for people based on my skills.<br> 
-Also I am a teach for young, talented students.<br> 
+Particle Physics : Particle Physics, Systematic Error Analysis, Detector design.<br>
+Software Analysis : Big data analysis, Finding / Estimating physical value with Deep, Machine learning<br> 
+Teaching : Experiment, Dealing data with Machine learing, Dron, Compact computer eg)Rasepberry pi<br> 
 
 # Research Experiences
 my google scholar : [Google Scholar](https://scholar.google.com/citations?user=0vN_HG0AAAAJ&hl=ko,"Google Scholar link")
@@ -34,9 +34,6 @@ Paper work is ongoing.
 ## Software
 ### Monte Carlo simulation
 
-| Design | Simulation | Fabrication | Test | Paper | 
-| ------ | ---------- | ----------- | ---- | ----- | 
-| Done | Done | Done | Done | Ongoing |
 
 I am developing simulation with Monte carlo algorithm. I generated Big data to study the systematic error in my experiement.<br> 
 I am using Geant4 simualtion tools which is c++ package for particle physicist.
@@ -48,6 +45,11 @@ This is track finding packager with Machine Learing algorithm in a long term pla
 ## Hardware
 ### DC to DC converter
 This is power electic circuit to supply the constant DC power based on Buck converter. It is done. 
+
+| Design | Simulation | Fabrication | Test | Paper | 
+| ------ | ---------- | ----------- | ---- | ----- | 
+| Done | Done | Done | Done | Ongoing |
+
 # Papers & Presentation & Posters
 
 
