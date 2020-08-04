@@ -10,13 +10,14 @@ toc: true
 I am an Experimentalist in particle physicist. I am developing the hardwares, software packages.
 
 # Interests
-I am a leaner with computer software and physical hardware. 
+I am doing analysis the particle physics data. Also I am developing the tools for that. I have so many intereted in Data analysis and 
 # Research Experiences
 my google scholar : [Google Scholar](https://scholar.google.com/citations?user=0vN_HG0AAAAJ&hl=ko,"Google Scholar link")
 
 # Projects
 ## Software
-
+### Monte Carlo simulation
+This is simulation with monte carlo algorithm. I generated Big data 
 ### Track Fitter
 This is fitting program with kalman filter algorithm
 ### Trak Finder
