@@ -20,12 +20,15 @@ my google scholar : [Google Scholar](https://scholar.google.com/citations?user=0
 
 <span style="color:green">Beam Test</span>
 
-I did beam test in Triumf@UBC, Canada. Our group got real muon data for testing material(aerogel) target to generate muonium.
+I did beam test in Triumf@UBC, Canada.
+Our group got real muon data for testing material(aerogel) target to generate muonium.
 [Muonium emission paper](https://academic.oup.com/ptep/article/2014/9/091C01/1530603, "Muoniumlink")
 
 <span style="color:Blue">Magnet Test</span>
 
 I did DC to DC converter test in KEK, J-PARC, Japan.   
+I comfirmed the stability operation of my DC to DC converter in High B field test. 
+Paper work is ongoing.
 
 # Projects
 ## Software
