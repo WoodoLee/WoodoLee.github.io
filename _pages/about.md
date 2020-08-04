@@ -19,7 +19,12 @@ Also I am a teach for young, talented students.
 my google scholar : [Google Scholar](https://scholar.google.com/citations?user=0vN_HG0AAAAJ&hl=ko,"Google Scholar link")
 
 <span style="color:green">Beam Test</span>
-<span style="color:green">Magnet Test</span>
+
+I did beam test in Triumf@UBC, Canada. Our group got real muon data for testing material(aerogel) target to generate muonium.
+
+<span style="color:Blue">Magnet Test</span>
+
+I did DC to DC converter test in KEK, J-PARC, Japan.   
 
 # Projects
 ## Software
