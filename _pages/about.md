@@ -40,12 +40,17 @@ I am using Geant4 simualtion tools which is c++ package for particle physicist.
 ### Track Fitter
 This is fitting program with kalman filter algorithm. I fitted the distorted helix track.<br> 
 I am using GenFit package which is useful tools for c++ package. It is done. 
-### Trak Finder
+| Design | Simulation | Implement | Paper | 
+| :------: | :----------: | :-----------: | :----: |
+| <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  |
+### Track Finder
 This is track finding packager with Machine Learing algorithm in a long term plane. It is working with low efficiency. - Still ongoing.
+| Design | Simulation | Implement | Paper | 
+| :------: | :----------: | :-----------: | :----: |
+| <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  |
 ## Hardware
 ### DC to DC converter
 This is power electic circuit to supply the constant DC power based on Buck converter. It is done. 
-
 | Design | Simulation | Fabrication | Test | Paper | 
 | :------: | :----------: | :-----------: | :----: | :-----: | 
 | <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:Blue">Ongoing</span>  |
