@@ -28,7 +28,6 @@ Our group got real muon data for testing material(aerogel) target to generate mu
 
 I did DC to DC converter test in KEK, J-PARC, Japan.   
 I comfirmed the stability operation of my DC to DC converter in High B field test.<br>  
-Paper work is ongoing.
 
 # Projects
 ## Software
@@ -37,6 +36,11 @@ Paper work is ongoing.
 
 I am developing simulation with Monte carlo algorithm. I generated Big data to study the systematic error in my experiement.<br> 
 I am using Geant4 simualtion tools which is c++ package for particle physicist.
+
+| Design | Simulation | Implement | Paper | 
+| :------: | :----------: | :-----------: | :----: |
+| <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:Blue">Ongoing</span>   |
+
 ### Track Fitter
 
 | Design | Simulation | Implement | Paper | 
@@ -62,8 +66,6 @@ This is track finding packager with Machine Learing algorithm in a long term pla
 | <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:Blue">Ongoing</span>  |
 
 This is power electic circuit to supply the constant DC power based on Buck converter. It is done. 
-
-# Papers & Presentation & Posters
 
 
 ---

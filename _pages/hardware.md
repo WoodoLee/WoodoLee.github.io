@@ -18,8 +18,8 @@ My main job is developing Low power-distribution system for positron detector by
 
 # Papers & Posters   
 
-Technical Desgine Report PrePrinted : [2019TDR PrePrinted](https://arxiv.org/pdf/1901.03047.pdf , "2019TDR PrePrinted")
-Technical Desgine Report Published : [2019TDR Published](https://academic.oup.com/ptep/article/2019/5/053C02/5506729 , "2019TDR Published")
+Technical Desgine Report PrePrinted : [2019TDR PrePrinted](https://arxiv.org/pdf/1901.03047.pdf , "2019TDR PrePrinted") <br>  
+Technical Desgine Report Published : [2019TDR Published](https://academic.oup.com/ptep/article/2019/5/053C02/5506729 , "2019TDR Published") <br>  
 
 # Presentation & Talk
 
