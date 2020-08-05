@@ -20,6 +20,7 @@ Teaching : Experiment, Dealing data with Machine learing, Dron, Compact computer
 <em><span style="color:green">Monte Carlo simulation</span><em> <br> 
 I am developing simulation with Monte carlo algorithm. I generated Big data to study the systematic error in my experiement.<br> 
 I am using Geant4 simualtion tools which is c++ package for particle physicist.
+
 | Design | Simulation | Implement | Paper | 
 | :------: | :----------: | :-----------: | :----: |
 | <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:Blue">Ongoing</span>   |
@@ -27,18 +28,21 @@ I am using Geant4 simualtion tools which is c++ package for particle physicist.
 <em><span style="color:green">Track Fitter</span><em> <br> 
 This is fitting program with kalman filter algorithm. I fitted the distorted helix track.<br> 
 I am using GenFit package which is useful tools for c++ package. It is done. 
+
 | Design | Simulation | Implement | Paper | 
 | :------: | :----------: | :-----------: | :----: |
 | <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:Blue">Ongoing</span>   |
 
 <em><span style="color:green">Track Finder</span><em> <br> 
 This is track finding packager with Machine Learing algorithm in a long term plane. It is working with low efficiency. - Still ongoing.
+
 | Design | Simulation | Implement | Paper | 
 | :------: | :----------: | :-----------: | :----: |
 | <span style="color:red">Done</span> | <span style="color:Blue">Ongoing</span>  |  |  |
 
 <em><span style="color:green">DC to DC converter</span><em> <br> 
 This is power electic circuit to supply the constant DC power based on Buck converter. It is done.
+
 | Design | Simulation | Fabrication | Test | Paper | 
 | :------: | :----------: | :-----------: | :----: | :-----: | 
 | <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:Blue">Ongoing</span>  |
