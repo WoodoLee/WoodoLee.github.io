@@ -3,6 +3,9 @@ permalink:/hardware/
 title: "Hardware"
 toc: true
 ---
+* * *
+![cm18](https://user-images.githubusercontent.com/35910868/89367755-d6209a00-d714-11ea-883b-1bcd17c1deff.JPG){: width="1000" height="1000"}   
+* * *
 # Experiences
 
 My All Hardware experiences are Power Electric IC development. I did several Magenet test for proving my DC to DC converter. It will input the stable DC power for positron Detector which is one of the most important part of the experiment. Because of nobody care about High B field effect on Electric circuit in Vacuum Chamber, I should design all parts for testing & proving the stability. Finally, I finished my Job. I will be used in Real Experiment.
