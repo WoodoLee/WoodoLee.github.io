@@ -5,6 +5,8 @@ toc: true
 ---
 # Experiences
 
+My All Hardware experiences are Power Electric IC development. I did several Magenet test for proving my DC to DC converter. It will input the stable DC power for positron Detector which is one of the most important part of the experiment. Because of nobody care about High B field effect on Electric circuit in Vacuum Chamber, I should design all parts for testing & proving the stability. Finally, I finished my Job. I will be used in Real Experiment.
+
 # Projects   
 
 g-2/EDM experiment at J-PARC : [g-2/EDM group website](http://g-2.kek.jp, "group website")<br>
