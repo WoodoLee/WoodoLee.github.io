@@ -6,9 +6,6 @@ toc: true
 * * *
 ![nigatta](https://user-images.githubusercontent.com/35910868/89368711-27ca2400-d717-11ea-92d0-83e9334fa3da.jpg){: width="1000" height="1000"}   
 * * *
-
-The Software group photo at software workshop at Nigatta University. 
-
 # Experiences
 
 I have so many interested in analysis the Big physics data - 10 to the 12 order. Because the experiment needs extereme low statistical error(0.1 ppm), we have nothing choice but to analysis such a big data. I joined to Software group since 2018. My first Job is making finaly missing piece - Track fitter. I made it and implemented to whole software package. <br>
