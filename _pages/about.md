@@ -30,10 +30,7 @@ I did DC to DC converter test in KEK, J-PARC, Japan.
 I comfirmed the stability operation of my DC to DC converter in High B field test.<br>  
 
 # Projects
-## Software
-### Monte Carlo simulation
-
-
+<em><span style="color:green">Monte Carlo simulation</span><em> <br> 
 I am developing simulation with Monte carlo algorithm. I generated Big data to study the systematic error in my experiement.<br> 
 I am using Geant4 simualtion tools which is c++ package for particle physicist.
 
@@ -41,7 +38,7 @@ I am using Geant4 simualtion tools which is c++ package for particle physicist.
 | :------: | :----------: | :-----------: | :----: |
 | <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:Blue">Ongoing</span>   |
 
-### Track Fitter
+<em><span style="color:green">Track Fitter</span><em> <br> 
 
 | Design | Simulation | Implement | Paper | 
 | :------: | :----------: | :-----------: | :----: |
@@ -50,7 +47,7 @@ I am using Geant4 simualtion tools which is c++ package for particle physicist.
 This is fitting program with kalman filter algorithm. I fitted the distorted helix track.<br> 
 I am using GenFit package which is useful tools for c++ package. It is done. 
 
-### Track Finder
+<em><span style="color:green">Track Finder</span><em> <br> 
 
 | Design | Simulation | Implement | Paper | 
 | :------: | :----------: | :-----------: | :----: |
@@ -58,14 +55,14 @@ I am using GenFit package which is useful tools for c++ package. It is done.
 
 This is track finding packager with Machine Learing algorithm in a long term plane. It is working with low efficiency. - Still ongoing.
 
-## Hardware
-### DC to DC converter
+
+<em><span style="color:green">DC to DC converter</span><em> <br> 
 
 | Design | Simulation | Fabrication | Test | Paper | 
 | :------: | :----------: | :-----------: | :----: | :-----: | 
 | <span style="color:red">Done</span> | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:red">Done</span>  | <span style="color:Blue">Ongoing</span>  |
 
-This is power electic circuit to supply the constant DC power based on Buck converter. It is done. 
+This is power electic circuit to supply the constant DC power based on Buck converter. It is done.
 
 
 ---
