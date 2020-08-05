@@ -1,11 +1,8 @@
 ---
 permalink:/teaching/
 title: "Teaching"
-toc: true
+#toc: true
 ---
-* * *
-This is all about my teaching experiences
-* * *
 # Lecture for freshmen
 I have given General Physics Experiment to freshmen since 2012. There are 2 gap years because of serving military.<br> 
 ### Course name : General Physics Experiment [PHYS161] , [PHYS162] 
@@ -30,6 +27,7 @@ The course is separated to two sections - Basic course and Intensified course.<b
 
 Basic Course : [Basic Course Syllabus](https://drive.google.com/file/d/1RP7xTZbjhLxsT4cYlGhZbmQQLngCOuJ0/view?usp=sharing, "Basic Course Syllabus")<br> 
 Intensified Course : [Intensified Course Syllabus](https://drive.google.com/file/d/10knLGF3h7ewCRLDGaxZP9khXQ-0e7--Y/view?usp=sharing, "Intensified Course Syllabus")<br> 
+
 Specific coursework material will be shown to student in the class internally.
 
 | Contents Development | Cource Materials | Lecture Duration| 
@@ -38,9 +36,11 @@ Specific coursework material will be shown to student in the class internally.
 
 ## Course name : Computer Vision
 ### Duration : 2020 ~
-I teach the <span style="color:green">Computer Vision</span> from A to Z for gifted children. 
+I teach the <span style="color:green">Computer Vision</span> from A to Z for gifted children. It is sponsored by Samseong.
 
 
+## Course name : Smart Eco System
+### Duration : 2020 ~
 
 
 
