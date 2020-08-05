@@ -15,33 +15,30 @@ Fall Semester : [Fall Semester Syllabus](https://drive.google.com/file/d/10knLGF
 Specific coursework material will be shown to student in the class internally.
 
 # Lecture for Gifted children
-Also I am an lecturer to gifted childeren at Korea University Center for Gifted Education.<br> 
-
-## Science
-I teach the basic science to gifted chindern with high school level + freshmen in University. <br>
-### Course name : Bascis Science
+Also I am an lecturer to gifted childeren at Korea University Center for Gifted Education.
+## Course name : Basic Science
 ### Duration : 2017 ~ 2018
+I teach the basic science to gifted chindern from high school level to freshmen level in University. <br>
 Physics : <br>
 Chemistry : <br>
 Biology : <br>
 Geology : <br>
+## Course name : Physical Computing
+###  Duration : 2019 ~
+I teach the <span style="color:green">Arduino</span>  from A to Z for gifted childeren. They learn how to computer works, deal the analog and digital sensors with arduino. The ultimate goal is gathering physicsl signal(eg. Heart Rate) and analysing that. <br>
+The course is separated to two sections - Basic course and Intensified course.<br>
 
-
-## Software
-
-2019 ~ : Teaching software with arduino, rasepberry pi, dron.<br>
-
-### arduino
-
-I teach the arduino from A to Z for gifted chinderen. They learn how to computer works, 
-
-
+Basic Course : [Basic Course Syllabus](https://drive.google.com/file/d/1RP7xTZbjhLxsT4cYlGhZbmQQLngCOuJ0/view?usp=sharing, "Basic Course Syllabus")<br> 
+Intensified Course : [Intensified Course Syllabus](https://drive.google.com/file/d/10knLGF3h7ewCRLDGaxZP9khXQ-0e7--Y/view?usp=sharing, "Intensified Course Syllabus")<br> 
+Specific coursework material will be shown to student in the class internally.
 
 | Contents Development | Cource Materials | Lecture Duration| 
 | :------: | :----------: | :----------: | 
-| <span style="color:red">Done</span> | <span style="color:red">Done</span>| <span style="color:red">Done</span>|
+| <span style="color:red">Done</span> | <span style="color:red">Done</span>| <span style="color:blue">Ongoing</span>|
 
-### rasepberry pi
+## Course name : Computer Vision
+### Duration : 2020 ~
+I teach the <span style="color:green">Computer Vision</span> from A to Z for gifted children. 
 
 
 
