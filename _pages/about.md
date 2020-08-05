@@ -16,20 +16,6 @@ Software Analysis : Big data analysis, Finding / Estimating physical value with 
 Teaching : Experiment, Dealing data with Machine learing, Dron, Compact computer eg)Rasepberry pi<br> 
 
 # Research Experiences
-my google scholar : [Google Scholar](https://scholar.google.com/citations?user=0vN_HG0AAAAJ&hl=ko,"Google Scholar link")
-
-<em><span style="color:green">Beam Test</span><em>
-
-I did beam test in Triumf@UBC, Canada.
-Our group got real muon data for testing material(aerogel) target to generate muonium.<br> 
-[Muonium emission paper](https://academic.oup.com/ptep/article/2014/9/091C01/1530603, "Muoniumlink")
-
-<em><span style="color:green">Magnet Test</span><em>
-
-I did DC to DC converter test in KEK, J-PARC, Japan.   
-I comfirmed the stability operation of my DC to DC converter in High B field test.<br>  
-
-# Projects
 <em><span style="color:green">Monte Carlo simulation</span><em> <br> 
 I am developing simulation with Monte carlo algorithm. I generated Big data to study the systematic error in my experiement.<br> 
 I am using Geant4 simualtion tools which is c++ package for particle physicist.
@@ -64,6 +50,20 @@ This is track finding packager with Machine Learing algorithm in a long term pla
 
 This is power electic circuit to supply the constant DC power based on Buck converter. It is done.
 
+
+# Experiment Experiences
+my google scholar : [Google Scholar](https://scholar.google.com/citations?user=0vN_HG0AAAAJ&hl=ko,"Google Scholar link")
+
+<em><span style="color:green">Beam Test</span><em>
+
+I did beam test in Triumf@UBC, Canada.
+Our group got real muon data for testing material(aerogel) target to generate muonium.<br> 
+[Muonium emission paper](https://academic.oup.com/ptep/article/2014/9/091C01/1530603, "Muoniumlink")
+
+<em><span style="color:green">Magnet Test</span><em>
+
+I did DC to DC converter test in KEK, J-PARC, Japan.   
+I comfirmed the stability operation of my DC to DC converter in High B field test.<br>  
 
 ---
 
