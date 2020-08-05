@@ -7,8 +7,8 @@ title: "Teaching"
 I have given General Physics Experiment to freshmen since 2012. There are 2 gap years because of serving military.<br> 
 ### Course name : General Physics Experiment [PHYS161] , [PHYS162] 
 ### Duration : 2015 ~
-Spring Semester : [Spring Semester Syllabus](https://drive.google.com/file/d/1RP7xTZbjhLxsT4cYlGhZbmQQLngCOuJ0/view?usp=sharing, "Spring Semester Syllabus ")<br> 
-Fall Semester : [Fall Semester Syllabus](https://drive.google.com/file/d/10knLGF3h7ewCRLDGaxZP9khXQ-0e7--Y/view?usp=sharing, "Fall Semester Syllabus ")<br> 
+[Spring Semester Syllabus](https://drive.google.com/file/d/1RP7xTZbjhLxsT4cYlGhZbmQQLngCOuJ0/view?usp=sharing, "Spring Semester Syllabus ") 
+[Fall Semester Syllabus](https://drive.google.com/file/d/10knLGF3h7ewCRLDGaxZP9khXQ-0e7--Y/view?usp=sharing, "Fall Semester Syllabus ")<br> 
 Specific coursework material will be shown to student in the class internally.
 
 # Lecture for Gifted children
@@ -24,30 +24,38 @@ Geology : <br>
 ###  Duration : 2019 ~
 I teach the <span style="color:green">Arduino</span>  from A to Z for gifted childeren. They learn how to computer works, deal the analog and digital sensors with arduino. The ultimate goal is gathering physicsl signal(eg. Heart Rate) and analysing that. <br>
 The course is separated to two sections - Basic course and Intensified course.<br>
+<span style="color:red">Because of COVID19, It is going along with online.</span>
 
-Basic Course : [Basic Course Syllabus](https://drive.google.com/file/d/1RP7xTZbjhLxsT4cYlGhZbmQQLngCOuJ0/view?usp=sharing, "Basic Course Syllabus")<br> 
-Intensified Course : [Intensified Course Syllabus](https://drive.google.com/file/d/10knLGF3h7ewCRLDGaxZP9khXQ-0e7--Y/view?usp=sharing, "Intensified Course Syllabus")<br> 
+[Basic Course Syllabus](https://drive.google.com/file/d/1RP7xTZbjhLxsT4cYlGhZbmQQLngCOuJ0/view?usp=sharing, "Basic Course Syllabus") 
+[Intensified Course Syllabus](https://drive.google.com/file/d/10knLGF3h7ewCRLDGaxZP9khXQ-0e7--Y/view?usp=sharing, "Intensified Course Syllabus")<br> 
 
 Specific coursework material will be shown to student in the class internally.
 
-| Contents Development | Cource Materials | Lecture Duration| 
+| Contents Development | Course Materials | Lecture Duration| 
 | :------: | :----------: | :----------: | 
 | <span style="color:red">Done</span> | <span style="color:red">Done</span>| <span style="color:blue">Ongoing</span>|
 
 ## Course name : Computer Vision
 ### Duration : 2020 ~
-I teach the <span style="color:green">Computer Vision</span> from A to Z for gifted children. It is sponsored by Samseong.
+I teach the <span style="color:green">Computer Vision</span> with <span style="color:green">Drone</span>  for gifted children. It is sponsored by Samseong.<br>
+<span style="color:red">Because of COVID19, It is going along with online.</span>
 
+[Computer Vision Syllabus](https://drive.google.com/file/d/1RP7xTZbjhLxsT4cYlGhZbmQQLngCOuJ0/view?usp=sharing, "Computer Vision Syllabus")<br> 
+
+| Contents Development | Course Materials | Lecture Duration| 
+| :------: | :----------: | :----------: | 
+| <span style="color:blue">Ongoing</span> | <span style="color:blue">Ongoing</span>| <span style="color:blue">Ongoing</span>|
 
 ## Course name : Smart Eco System
 ### Duration : 2020 ~
+I teach how to make the smart eco system with  <span style="color:green">Rasepberry pi4</span>  from A to Z for gifted children. It is sponsored by Samseong.<br>
+<span style="color:red">Because of COVID19, It is going along with online.</span>
 
+[Smart Eco System Syllabus](https://drive.google.com/file/d/1RP7xTZbjhLxsT4cYlGhZbmQQLngCOuJ0/view?usp=sharing, "Smart Eco System Syllabus")<br> 
 
-
-
-
-
-
+| Contents Development | Course Materials | Lecture Duration| 
+| :------: | :----------: | :----------: | 
+| <span style="color:blue">Ongoing</span> | <span style="color:blue">Ongoing</span>| <span style="color:blue">Ongoing</span>|
 
 ---
 
