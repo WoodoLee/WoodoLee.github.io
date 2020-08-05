@@ -1,7 +1,7 @@
 ---
 permalink:/teaching/
 title: "Teaching"
-#toc: true
+toc: true
 ---
 # Lecture for freshmen
 <span style="color:red">Because of COVID19, It is going along with online.</span>
