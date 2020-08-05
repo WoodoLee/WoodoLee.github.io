@@ -4,7 +4,7 @@ title: "Physics"
 toc: true
 ---
 * * *
-![cm18](https://user-images.githubusercontent.com/35910868/89367755-d6209a00-d714-11ea-883b-1bcd17c1deff.JPG){: width="200" height="200"}   
+![cm18](https://user-images.githubusercontent.com/35910868/89367755-d6209a00-d714-11ea-883b-1bcd17c1deff.JPG){: width="400" height="400"}   
 * * *
 # Experiences
 
