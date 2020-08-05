@@ -3,6 +3,11 @@ permalink:/software/
 title: "Software"
 toc: true
 ---
+* * *
+![IMG_1443](https://user-images.githubusercontent.com/35910868/88503062-87d01480-d00b-11ea-8478-1327f8a95be3.jpg){: width="200" height="200"}   
+[![HitCount](http://hits.dwyl.com/woodolee/https://woodoleegithubio/.svg)](http://hits.dwyl.com/woodolee/https://woodoleegithubio/)
+* * *
+
 # Experiences
 
 I have so many interested in analysis the Big physics data - 10 to the 12 order. Because the experiment needs extereme low statistical error(0.1 ppm), we have nothing choice but to analysis such a big data. I joined to Software group since 2018. My first Job is making finaly missing piece - Track fitter. I made it and implemented to whole software package. </br>
