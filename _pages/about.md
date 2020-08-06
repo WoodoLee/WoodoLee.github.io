@@ -4,9 +4,8 @@ title: "About"
 toc: true
 ---
 * * *
-![IMG_1443](https://user-images.githubusercontent.com/35910868/88503062-87d01480-d00b-11ea-8478-1327f8a95be3.jpg){: width="200" height="200"} I am an Experimentalist in particle physicist. I am developing the hardwares, software packages.<br> 
-I am a memeber of E34(g-2/EDM experiment at J-PARC) - both Software group and Detector group.<br>
-[![HitCount](http://hits.dwyl.com/woodolee/https://woodoleegithubio/.svg)](http://hits.dwyl.com/woodolee/https://woodoleegithubio/)
+![IMG_1443](https://user-images.githubusercontent.com/35910868/88503062-87d01480-d00b-11ea-8478-1327f8a95be3.jpg){: width="200" height="200"} I am an Experimentalist in particle physicist.I am developing the hardwares, software packages. I am a memeber of E34(g-2/EDM experiment at J-PARC) - both Software group and Detector group.
+[![HitCount](http://hits.dwyl.com/woodolee/https://woodoleegithubio/.svg)](http://hits.dwyl.com/woodolee/woodoleegithubio/)
 [google scholar](https://scholar.google.com/citations?user=0vN_HG0AAAAJ&hl=ko, "google scholar") 
 * * *
 I am an Experimentalist in particle physicist. I am developing the hardwares, software packages.<br> 
