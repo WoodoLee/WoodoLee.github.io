@@ -4,7 +4,9 @@ title: "Software"
 toc: true
 ---
 * * *
-![nigatta](https://user-images.githubusercontent.com/35910868/89368711-27ca2400-d717-11ea-92d0-83e9334fa3da.jpg){: width="1000" height="1000"}   
+![nigatta](https://user-images.githubusercontent.com/35910868/89368711-27ca2400-d717-11ea-92d0-83e9334fa3da.jpg){: width="1000" height="1000"}
+![g-2BINP](https://user-images.githubusercontent.com/35910868/89369105-22210e00-d718-11ea-9114-7ef25306c8ba.png){: width="1000" height="1000"}   
+
 * * *
 # Experiences
 
@@ -13,6 +15,8 @@ Also I am trying to improve track finder with Deep learning algorithm. Actually,
 So I am trying to make the track finder with Non-supervisor method. There are several attempt to do that in CERN - GNN, RNN.. But it is hard to adpot thier method because the situation is very different. I am struggling to study that and adopt to our group.<br>
 Strangly, this tough situation drag me into the program developing area. I made my own cluster to generate more data, I developed so many program packages but I got some obstacles because my lack of knowledge.<br>
 I decided to learn more deep knowledge in a perpective of Computer Engineering field. 
+
+My All experiences are concentrated on Finding muon g-2/EDM value. I am trying to get the systematic error for our experiment. I joined the group since 2012 with my first job - DC to DC converter. I do my research with my collobrator usually - It's a common charateristic for Particle Physicsists, especially for Experimentalist. I spent most my time in Japan, KEK and J-PARC. There are various kind of people from various Countries. This condition helps me a lot. Now I expected getting physics ph.D for next year. Without my collaborators, I cannot do it, definetely. 
 
 # Projects
 
