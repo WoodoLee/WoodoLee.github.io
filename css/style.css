@@ -57,7 +57,9 @@ h6 {
 
 .logo h1 a {
   text-decoration: none;
-  color: #fff;
+  color: rgb(2, 2, 2);
+
+  /* color: #fff; */
 }
 
 .logo span {
