@@ -90,7 +90,7 @@ h6 {
   text-decoration: none;
   padding: 10px 0;
   text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Times';
 }
 
 .navigation-right ul li.active a {
@@ -110,7 +110,7 @@ span.menu {
   color: #797878;
   text-shadow: none;
   position: relative;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Times';
 }
 
 .link-effect-3 a::before {
@@ -238,10 +238,10 @@ ul.address li {
 
 ul.address li ul.address-text li {
   display: inline-block;
-  font-size: 1em;
+  font-size: 18px;
   color: rgb(2, 2, 2);
   /* color: #fff; */
-  margin-top: 1em;
+  margin-top: 2em;
   font-weight: 400;
 }
 
