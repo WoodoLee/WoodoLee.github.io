@@ -217,7 +217,7 @@ ul.address {
 }
 
 .header-right h6 {
-  font-size: 1em;
+  font-size: 25px;
   color: rgb(2, 2, 2);
 
   /*color: #C7C7C7;*/
@@ -614,14 +614,14 @@ span.border.one:after {
   color: #1b242f;
   font-size: 2em;
   font-weight: 300;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Times';
   margin: 0;
   padding: 0 0 0.2em 0;
 }
 
 .service-head h3 span {
   font-weight: 700;
-  font-family: 'Asap', sans-serif;
+  font-family: 'Times';
 }
 
 .wthree_about_left,
