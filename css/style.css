@@ -249,7 +249,9 @@ ul.address li ul.address-text li:nth-child(1) {
 }
 
 ul.address li ul.address-text li a {
-  color: #fff;
+  color: rgb(2, 2, 2);
+
+  /* color: #fff; */
   text-decoration: none;
 }
 
@@ -258,7 +260,9 @@ ul.address li ul.address-text li a:hover {
 }
 
 ul.address-text b {
-  color: #fff;
+  color: rgb(2, 2, 2);
+
+  /* color: #fff; */
 }
 
 
