@@ -52,13 +52,14 @@ h6 {
   margin: 0;
   text-transform: uppercase;
   font-weight: bold;
-  color: #fff;
+  color: rgb(2, 2, 2);
+
+  /* color: #fff; */
 }
 
 .logo h1 a {
   text-decoration: none;
   color: rgb(2, 2, 2);
-
   /* color: #fff; */
 }
 
