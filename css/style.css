@@ -771,7 +771,8 @@ span.border.one:after {
 
 #services {
   padding: 5em 0;
-  background: #1b242f;
+  background: rgb(255, 255, 255);
+  /* background: #1b242f; */
 }
 
 .service-head.one h3 {
