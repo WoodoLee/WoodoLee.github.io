@@ -1873,7 +1873,7 @@ span.border.two:after {
   ul.nav1 {
     display: none;
     margin-top: 2em;
-    background: rgba(27, 26, 26, 0.98);
+    background: #FFF;
   }
   .navigation-right {
     margin: 0.7em 0 0;
