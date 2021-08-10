@@ -159,7 +159,7 @@ ul.address {
 .header-left img {
   width: 50%;
   margin-top: 44px;
-  margin-left: 88px;
+  /* margin-left: 88px; */
 }
 
 .header-right {
