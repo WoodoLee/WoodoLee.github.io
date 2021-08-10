@@ -157,9 +157,9 @@ ul.address {
 }
 
 .header-left img {
-  /* width: 100%; */
   width: 50%;
-  margin-top: 19px;
+  margin-top: 44px;
+  margin-left: 88px;
 }
 
 .header-right {
